@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [markhor](https://github.com/clubcapra)
 
-- 🌱 I’m currently learning **just about everything**
+- 🌱 I’m currently **pushing my programming skills further**
 
 - 💬 Ask me about **ROS**
 
 - 📫 How to reach me **saxtot@gmail.com**
 
-- ⚡ Fun fact **I have five years of industrial engineering education/experience**
+- ⚡ Fun fact **I also have five years of industrial engineering education/experience**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
