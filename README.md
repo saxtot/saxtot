@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saxtot@gmail.com**
 
-- ⚡ Fun fact **I also have five years of industrial engineering education and experience**
+- ⚡ Fun fact **I also have five years of industrial engineering studies and experience**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
