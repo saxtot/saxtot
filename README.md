@@ -1,25 +1,23 @@
 <h1 align="center">Bonjour-Hi! I'm Marc-O aka saxtot</h1>
 <h3 align="center">Software engineering student from Canada</h3>
 
-- 🔭 I’m currently working on [markhor](https://github.com/clubcapra)
+- 🔭 I’m currently working on [curobo_ros](https://github.com/Lab-CORO/curobo_ros)
 
-- 🌱 I’m currently **pushing my programming skills further**
+- 🌱 I’m also **pushing my programming skills further and looking for work!**
 
-- 💬 Ask me about **ROS**
+- 💬 I can talk for hours about **ROS, embedded programming and interdisciplinary projects**
 
-- 📫 How to reach me **saxtot@gmail.com**
+- 📫 Reach me at **saxtot@gmail.com**
 
-- ⚡ Fun fact **I also have five years of industrial engineering studies and experience**
+- ⚡ Fun fact: **I also have five years of industrial engineering studies and experience**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/saxtot#7205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saxtot#7205" height="30" width="40" /></a>
-saxtot#7205</p>
+<a href="https://discord.com/users/191003982599028737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saxtot" height="30" width="40" /></a>
+saxtot</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+<h3 align="left">My favorite tools and languages:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ros,docker,git,react,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,rust,ts,bash)](https://skillicons.dev)
