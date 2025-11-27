@@ -1,11 +1,11 @@
 <h1 align="center">Bonjour-Hi! I'm Marc-O aka saxtot</h1>
-<h3 align="center">Software engineering student from Canada</h3>
+<h3 align="center">Software engineering graduate from Canada</h3>
 
-- 🔭 I’m currently working on [curobo_ros](https://github.com/Lab-CORO/curobo_ros)
+- 🔭 I’m currently working on [NuttX](https://github.com/apache/nuttx)
 
 - 🌱 I’m also **pushing my programming skills further and looking for work!**
 
-- 💬 I can talk for hours about **ROS, embedded programming and interdisciplinary projects**
+- 💬 I can talk for hours about **embedded systems, software achitecture and robotic projects**
 
 - 📫 Reach me at **saxtot@gmail.com**
 
@@ -18,6 +18,6 @@ saxtot</p>
 
 <h3 align="left">My favorite tools and languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ros,docker,git,react,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,vscode,ros,docker,nix)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,rust,ts,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,rust,py,bash,ts)](https://skillicons.dev)
